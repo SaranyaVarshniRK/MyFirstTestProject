@@ -6,6 +6,6 @@ public class HelloWorldClass {
 		System.out.println("Welcome");
 		System.out.println("Regards");
 	}
-	
+	//adding test comments
 
 }
